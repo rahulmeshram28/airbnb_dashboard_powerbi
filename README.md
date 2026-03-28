@@ -83,19 +83,6 @@ The goal is to transform raw data into actionable insights that help in better d
 
 ---
 
-## 📁 Project Structure
-
-```
-airbnb-dashboard-powerbi/
-│── data/
-│── dashboard/
-│── images/
-│── docs/
-│── scripts/
-│── README.md
-```
-
----
 
 ## 📸 Dashboard Preview
 
@@ -146,4 +133,3 @@ This dashboard helps:
 **Rahul Meshram**
 Aspiring Data Analyst
 
-If you want, next I can give you a **next-level README (with badges, icons, and recruiter-attracting design)** 🔥
