@@ -79,7 +79,7 @@ The goal is to transform raw data into actionable insights that help in better d
 
 * **Power BI** – Data Visualization
 * **Excel / CSV** – Data Source
-* **Python (Optional)** – Data Cleaning
+* **SQL** – Data Cleaning
 
 ---
 
