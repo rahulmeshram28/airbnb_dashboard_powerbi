@@ -101,7 +101,7 @@ airbnb-dashboard-powerbi/
 
 ### Overview Dashboard
 
-![Overview](images/overview.png)
+![Overview](https://github.com/rahulmeshram28/airbnb_dashboard_powerbi/blob/6174085552e2c8e2f069d3376213f5d0fe583583/images/Airbnb%20Overview.png)
 
 ### Ratings Dashboard
 
